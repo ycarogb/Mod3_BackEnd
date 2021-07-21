@@ -1,0 +1,31 @@
+﻿@page
+@using SalaDeAula.Models;
+@model SalaDeAula.Pages.Alunos.IndexModel
+@{
+}
+
+<div class="text-center" style="padding-bottom:5px">
+    <a class="btn btn-primary" href="/Alunos/Create" role="button">Adicionar aluno</a>
+</div>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Nascimento</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Aluno n in Model.listaAlunos)
+        {
+            <tr>
+                <th scope="row">@n.Id</th>
+                <td>@n.Nome</td>
+                <td>@n.Nascimento</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,16 @@
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\bin\Debug\net5.0\Aula4_CodeLAB.exe
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\bin\Debug\net5.0\Aula4_CodeLAB.deps.json
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\bin\Debug\net5.0\Aula4_CodeLAB.runtimeconfig.json
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\bin\Debug\net5.0\Aula4_CodeLAB.runtimeconfig.dev.json
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\bin\Debug\net5.0\Aula4_CodeLAB.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\bin\Debug\net5.0\ref\Aula4_CodeLAB.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\bin\Debug\net5.0\Aula4_CodeLAB.pdb
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\obj\Debug\net5.0\Aula4_CodeLAB.csproj.AssemblyReference.cache
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\obj\Debug\net5.0\Aula4_CodeLAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\obj\Debug\net5.0\Aula4_CodeLAB.AssemblyInfoInputs.cache
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\obj\Debug\net5.0\Aula4_CodeLAB.AssemblyInfo.cs
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\obj\Debug\net5.0\Aula4_CodeLAB.csproj.CoreCompileInputs.cache
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\obj\Debug\net5.0\Aula4_CodeLAB.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\obj\Debug\net5.0\ref\Aula4_CodeLAB.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\obj\Debug\net5.0\Aula4_CodeLAB.pdb
+C:\Projetos BLUE\M3_BackEnd 1\Aula4_CodeLab\Aula4_CodeLAB\Aula4_CodeLAB\obj\Debug\net5.0\Aula4_CodeLAB.genruntimeconfig.cache

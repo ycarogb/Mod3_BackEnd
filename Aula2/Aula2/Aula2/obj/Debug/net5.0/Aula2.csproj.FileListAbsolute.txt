@@ -1,0 +1,16 @@
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\bin\Debug\net5.0\Aula2.exe
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\bin\Debug\net5.0\Aula2.deps.json
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\bin\Debug\net5.0\Aula2.runtimeconfig.json
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\bin\Debug\net5.0\Aula2.runtimeconfig.dev.json
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\bin\Debug\net5.0\Aula2.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\bin\Debug\net5.0\ref\Aula2.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\bin\Debug\net5.0\Aula2.pdb
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\obj\Debug\net5.0\Aula2.csproj.AssemblyReference.cache
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\obj\Debug\net5.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\obj\Debug\net5.0\Aula2.AssemblyInfoInputs.cache
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\obj\Debug\net5.0\Aula2.AssemblyInfo.cs
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\obj\Debug\net5.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\obj\Debug\net5.0\Aula2.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\obj\Debug\net5.0\ref\Aula2.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\obj\Debug\net5.0\Aula2.pdb
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\Aula2\Aula2\obj\Debug\net5.0\Aula2.genruntimeconfig.cache

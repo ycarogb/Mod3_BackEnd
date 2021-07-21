@@ -1,0 +1,19 @@
+﻿@page
+@using HelloWorld.NovaPasta;
+@model HelloWorld.Pages.NovaPasta.IndexModel
+@{
+}
+
+<p>Essa é  pagina inicial dos produtos</p>
+<p>Lista de produtos</p>
+
+@foreach( Produto prod in Model.produtos)
+            {
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">@prod.Nome</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">@prod.Preco</h6>
+                        <p class="card-text">@prod.Descricao</p>
+                    </div>
+                </div>
+            }

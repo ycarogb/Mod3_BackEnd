@@ -1,0 +1,16 @@
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\bin\Debug\net5.0\SaladeAula.exe
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\bin\Debug\net5.0\SaladeAula.deps.json
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\bin\Debug\net5.0\SaladeAula.runtimeconfig.json
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\bin\Debug\net5.0\SaladeAula.runtimeconfig.dev.json
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\bin\Debug\net5.0\SaladeAula.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\bin\Debug\net5.0\ref\SaladeAula.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\bin\Debug\net5.0\SaladeAula.pdb
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\obj\Debug\net5.0\SaladeAula.csproj.AssemblyReference.cache
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\obj\Debug\net5.0\SaladeAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\obj\Debug\net5.0\SaladeAula.AssemblyInfoInputs.cache
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\obj\Debug\net5.0\SaladeAula.AssemblyInfo.cs
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\obj\Debug\net5.0\SaladeAula.csproj.CoreCompileInputs.cache
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\obj\Debug\net5.0\SaladeAula.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\obj\Debug\net5.0\ref\SaladeAula.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\obj\Debug\net5.0\SaladeAula.pdb
+C:\Projetos BLUE\M3_BackEnd 1\Aula2\SaladeAula\SaladeAula\obj\Debug\net5.0\SaladeAula.genruntimeconfig.cache

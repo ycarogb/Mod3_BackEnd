@@ -1,0 +1,16 @@
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\bin\Debug\net5.0\Aula3_POO.exe
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\bin\Debug\net5.0\Aula3_POO.deps.json
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\bin\Debug\net5.0\Aula3_POO.runtimeconfig.json
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\bin\Debug\net5.0\Aula3_POO.runtimeconfig.dev.json
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\bin\Debug\net5.0\Aula3_POO.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\bin\Debug\net5.0\ref\Aula3_POO.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\bin\Debug\net5.0\Aula3_POO.pdb
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\obj\Debug\net5.0\Aula3_POO.csproj.AssemblyReference.cache
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\obj\Debug\net5.0\Aula3_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\obj\Debug\net5.0\Aula3_POO.AssemblyInfoInputs.cache
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\obj\Debug\net5.0\Aula3_POO.AssemblyInfo.cs
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\obj\Debug\net5.0\Aula3_POO.csproj.CoreCompileInputs.cache
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\obj\Debug\net5.0\Aula3_POO.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\obj\Debug\net5.0\ref\Aula3_POO.dll
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\obj\Debug\net5.0\Aula3_POO.pdb
+C:\Projetos BLUE\M3_BackEnd 1\Aula3\Aula3_POO\Aula3_POO\obj\Debug\net5.0\Aula3_POO.genruntimeconfig.cache
