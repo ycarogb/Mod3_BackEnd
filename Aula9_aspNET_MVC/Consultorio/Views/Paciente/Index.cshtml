@@ -1,0 +1,33 @@
+﻿@model List<Paciente>
+
+<h2>Lista de pacientes</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.First().Id)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Nome)</th>
+            <th>@Html.DisplayNameFor(Model => Model.First().Nascimento)</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (Paciente paciente in Model)
+        {
+        <tr>
+            <td>@Html.DisplayFor(Model => paciente.Id)</td>
+            <td>@Html.DisplayFor(Model => paciente.Nome)</td>
+            <td>@Html.DisplayFor(Model => paciente.Nascimento)</td>
+        </tr>
+        }
+
+    </tbody>
+</table>
+@*@foreach(Paciente paciente in ViewBag.lista)
+{
+    <p> Id: @paciente.Id</p>
+    <p> Nome: @paciente.Nome</p>
+    <hr />
+}*@
+
+<a asp-controller="Paciente" asp-action="Create">Incluir Paciente</a>

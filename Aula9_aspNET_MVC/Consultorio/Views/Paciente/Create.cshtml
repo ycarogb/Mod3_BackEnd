@@ -1,0 +1,14 @@
+﻿@model Paciente
+
+<div class="row">
+    <form class="col-md-4" asp-action="POST">
+        <div class="form-group">
+            <label class="control-label" asp-for="Nome"></label>
+            <input class="form-control" asp-for="Nome"/>
+        </div>
+            <label class="control-label" asp-for="Nascimento"></label>
+            <input class="form-control" asp-for="Nascimento"/>
+        <input type="submit" class="btn btn-primary" value="Criar" />
+        <a asp-controller="Home" asp-action="Index">Início</a>
+    </form>
+</div>
